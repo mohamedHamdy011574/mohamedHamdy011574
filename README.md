@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedHamdy011574
-- 👀 I’m interested in Software engineering 
+- 👀 I’m interested in Software Engineering and Data Analysis
 - 🌱 I’m currently learning Software development, Data analysis and App development 
 - 💞️ I’m looking to collaborate on Software development projects
 - 📫 How to reach me: m.hamdy011574@gmail.com
